@@ -1,0 +1,17 @@
+$git init my project -command line(initilizing)
+it creates directory of project files and als control files that have history elements
+
+$cd myproject
+
+$git add
+
+$git commit -m  "importing all code" (to save above file)(historical event is recorded by it)
+
+$git init my project -command line(initilizing)
+it creates directory of project files and als control files that have history elements
+
+$cd myproject
+
+$git add
+
+$git commit -m  "importing all code" (to save above file)(historical event is recorded by it)  
